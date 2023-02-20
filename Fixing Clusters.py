@@ -11,12 +11,12 @@ import sys
 import random
 
 node_columns = ["Node Id","X","Y"]
-nodes_data = pd.read_csv("https://www.cs.utah.edu/~lifeifei/research/tpq/SF.cnode", header=None, delimiter=r"\s+")
+nodes_data = pd.read_csv("https://users.cs.utah.edu/~lifeifei/research/tpq/OL.cnode", header=None, delimiter=r"\s+")
 nodes_data.columns = node_columns
 nodes_data.head()
 
 edge_columns = ["Edge Id","X","Y","Weight"]
-edges_data = pd.read_csv("https://www.cs.utah.edu/~lifeifei/research/tpq/SF.cedge", header=None, delimiter=r"\s+")
+edges_data = pd.read_csv("https://users.cs.utah.edu/~lifeifei/research/tpq/OL.cedge", header=None, delimiter=r"\s+")
 edges_data.columns = edge_columns
 edges_data.head()
 
