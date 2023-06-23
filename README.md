@@ -4,4 +4,4 @@ When the number of categories are fixed : run "Fixing Clusters.py". The code run
 These above codes create multiple CSV files that are used to plot graphs.
 Here are two more files named "Agents Fixed Plots.py" and "Clusters Fixed Plots.py". These files are used to plot the graphs using CSV files.
 The datasets are availabe at : https://www.cs.utah.edu/~lifeifei/SpatialDataset.htm, 
-In case any difficulty, contact : napendrasinghrajput@gmail.com
+In case any difficulty, contact : napendrasinghrajput@gmail.com, napendra.21csz0001@iitrpr.ac.in
